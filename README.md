@@ -4,17 +4,17 @@ This is the place where I opensource stuff and break things :rofl:
 - 🔭 I’m currently working on something cool :wink:
 - 🌱 I’m currently learning AI, ML and Blockchain
 - 💬 Ask me about anything related to Javascript/Typescript/Python
-- 📫 How to reach me: [@gautamkrishnar](https://twitter.com/AmirSalim99)
+- 📫 How to reach me: [@AmirbnSalim](https://twitter.com/AmirSalim99)
 - ⚡ Fun fact: I :heart: :dog:s
 
 📊 **This week I spent my time on**
 <!--START_SECTION:waka-->
 ```text
-Asp.net   3 hrs 10 mins   ███████░░░░░░░░░░░░░░░░░░   29.24 % 
+Asp.net                3 hrs 10 mins   ███████░░░░░░░░░░░░░░░░░░   29.24 % 
 Entity Framework       1 hr 22 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.57 % 
-Sql Server         1 hr 13 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   11.28 % 
-JavaScript   52 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.10 % 
-Markdown     49 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.62 %
+Sql Server             1 hr 13 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   11.28 % 
+JavaScript             52 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.10 % 
+Markdown               49 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.62 %
 ```
 <!--END_SECTION:waka-->
 
